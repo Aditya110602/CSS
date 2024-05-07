@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'NotoSerif';
+    src: url(./Noto_Serif/NotoSerif-Italic-VariableFont_wdth\,wght.ttf);
+}
+
+p{
+    font-family: 'NotoSerif', sans-serif;
+}
